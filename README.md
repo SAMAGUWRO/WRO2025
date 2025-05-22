@@ -1,5 +1,6 @@
 # WRO2025
 La importancia de la Tecnología en el mundo actual
+
 Tema General:
 ¿Cómo nos ayuda la tecnología a progresar como sociedad?
 
